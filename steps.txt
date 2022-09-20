@@ -1,0 +1,19 @@
+Instalar python 
+Instalar pipenv para gerenciar os pacotes e isolar as bibliotecas num ENV
+Instalar lib do appium 
+Reiniciar o VS Code
+Iniciar!!!!!!!!
+
+
+Se der o erro de policy:   
+
++ CategoryInfo          : SecurityError: (:) [], ParentContainsErrorRecordException
++ FullyQualifiedErrorId : UnauthorizedAccess
+
+Abrir o powershell como adm e digitar: Set-ExecutionPolicy Unrestricted
+
+#####
+Since v1.0.0, only Python 3.7+ is supported.
+
+Since v2.0.0, the base selenium client version is v4. The version only works in W3C WebDriver protocol format. If you would like to use the old protocol (MJSONWP), please use v1 Appium Python client.
+###
